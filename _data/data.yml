@@ -19,7 +19,7 @@ sidebar:
     github: ssesayjr
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: ssesay88
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -84,18 +84,32 @@ experiences:
         science and analytics.
           - Routinely aggregate project data and build reports geared to project implementation and efficacy. 
             Routinely mine, clean and analyze project data.
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Served in the role as an Interim Monitoring and Evaluation Director for 
+            the SMARTE Program by reviewing and improving the M&E system in close 
+            collaboration with the program team, providing routine analysis of program, 
+            and aggregating data for Quarter 3, 4 and annual 2018 USAID Report
+          - Manage launch of the DevResults system for data management and analysis by developing
+            in-house training system for U.S. and field-based staff and providing ongoing support 
+            to programs on use of DevResults 
+    - role: Information Technologist Response
+      time: 2016 - 2017
+      company: USAID (Winrock)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
+        Enabled faculty and student usage of new infrastructure and material
+        resources secured with support of AEMIP (Agriculture Education and
+        Market Improvement Program); created technical training materials, 
+        and taught 3 university classes on Stata, SPSS, and Microsoft Excel Suite.  
+        Built the infrastructure, and wiring for the universities first ever IT laboratory 
+        and expanded the university WiFi network for utilization by volunteers, students, 
+        faculty and USAID employees. Also, co-installed ISAVF university’s first weather 
+        station and trained staff on data interpretation and reporting.
+          - Delivered trainings for ISAV/F (Institut Supérieur Agronomique et Vétérinaire de Faranah) 
+            faculty on technical content and pedagogy that directly led to new faculty-developed curricular elements
+          - Instructed and collaborated on various faculty and doctorate 
+            data analysis projects for continued success in crop Provided 
+            technical content modules, experiential learning tools and 
+            methods in the ISAV/F curriculum developed for day-to-day application
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
