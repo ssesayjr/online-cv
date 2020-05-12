@@ -122,30 +122,24 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        To Access my projects <a href = "">CLICK HERE</a>.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Agricultural Sustainability in West Africa 
+        link: "ssesayjr.github.io/profile_draft/#portfolio"
+        tagline: 
+        
+      - title: The Potential of Mobile Currency in Africa 
+        link: "ssesayjr.github.io/profile_draft/#portfolio"
+        tagline: 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Predictive Modeling of Applied Agricultural Technologies 
+        link: "ssesayjr.github.io/profile_draft/#portfolio"
+        tagline: 
+        
+      - title: Netflix Recommender
+        link: "ssesayjr.github.io/profile_draft/#portfolio"
+        tagline: 
+        
 publications:
     title: Publications
     intro: |
@@ -172,22 +166,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Machine Learning
         level: 98%
 
-      - name: Angular
+      - name: ArcGIS
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Data Visualization
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Predictive Analytics
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: SQL
         level: 60%
 
 footer: >
