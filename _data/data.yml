@@ -122,22 +122,22 @@ experiences:
 projects:
     title: Projects
     intro: >
-        To Access my projects <a href = "ssesayjr.github.io/profile_draft/#portfolio">CLICK HERE</a>.
+  
     assignments:
       - title: Agricultural Sustainability in West Africa 
         link: ssesayjr.github.io/profile_draft/#portfolio
         tagline: 
         
       - title: The Potential of Mobile Currency in Africa 
-        link: "ssesayjr.github.io/profile_draft/#portfolio"
+        link: ssesayjr.github.io/profile_draft/#portfolio
         tagline: 
 
       - title: Predictive Modeling of Applied Agricultural Technologies 
-        link: "ssesayjr.github.io/profile_draft/#portfolio"
+        link: ssesayjr.github.io/profile_draft/#portfolio
         tagline: 
         
       - title: Netflix Recommender
-        link: "ssesayjr.github.io/profile_draft/#portfolio"
+        link: ssesayjr.github.io/profile_draft/#portfolio
         tagline: 
         
 publications:
