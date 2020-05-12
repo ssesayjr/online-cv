@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Samuel B Sesay Jr. Resume
-url: 'http://webjeda.com'
+url: 
 baseurl: '/online-cv' #change it according to your repository name
 description: Online Resume for Samuel Sesay Jr. 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
