@@ -61,7 +61,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: BoS in Economics
-      university: Bristol University
+      university: University of Maryland College Park
       time: 2006 - 2010
       details: |
           - Bullet point
@@ -110,17 +110,15 @@ experiences:
             data analysis projects for continued success in crop Provided 
             technical content modules, experiential learning tools and 
             methods in the ISAV/F curriculum developed for day-to-day application
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: Manager of Customer Support Operations
+      time: 2015 - 2016
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Maintained and improved NPS to 88% from 42% within 2 months of Solution Center conversion by creating and implementing several automated auditing processes for Solution Center employee’s which provided performance statistics and improved the quality of customer service
+          - Hired, trained, developed, and managed a Tier I Solution Center Team of 50+ members
+          - Created and presented several project briefs for the implementation of new technology geared towards department efficiency and improving customer service 
+          - Created and implemented a service design plan to convert 14 departments into a Tier II support structure
+          - Created and developed internal SLA, SOP, and KPIs for PES Solution Center Team
 projects:
     title: Projects
     intro: >
