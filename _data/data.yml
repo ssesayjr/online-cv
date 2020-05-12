@@ -47,12 +47,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A passionate Data Analyst working in the international development sector 
+      with experience in quantitative and qualitative analysis methods, with 
+      proven expertise in survey design, programming, databases design and 
+      management, implementing data collections tools, and institutionalizing 
+      standard operating procedures. 
+      
 education:
     - degree: BoS in Mathematics 
       university: University of Maryland College Park 
@@ -122,7 +122,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-        To Access my projects <a href = "">CLICK HERE</a>.
+        To Access my projects <a href = "ssesayjr.github.io/profile_draft/#portfolio">CLICK HERE</a>.
     assignments:
       - title: Agricultural Sustainability in West Africa 
         link: "ssesayjr.github.io/profile_draft/#portfolio"
