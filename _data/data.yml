@@ -170,6 +170,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+    
+      - name: Interpersonal Skills
+        level: 98%
+        
+      - name: Problem Solving
+        level: 98%
+        
       - name: Python
         level: 98%
 
