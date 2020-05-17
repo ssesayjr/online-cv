@@ -10,15 +10,15 @@
     {{ certification.title }}
   </h2>
 
-  <div class="skillset">
 
-    {% if certification.title %}
+{% for certification in certification.cert %}
   <div class="item">
-      {{ certification.cert }} 
-      {{ certification.year }}
-        </div>
-      </div><!--//level-bar-->
-
+    {% if certification.cert %} 
+    <li> {{ certification.cert }} </li>  
+    
+     {% if certification.year %} 
+    <li>  {{ certification.year }} </li>
+    
     </div><!--//item-->
     {% endfor %}
 
