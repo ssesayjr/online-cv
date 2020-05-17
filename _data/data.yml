@@ -158,14 +158,15 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 certification: 
-    title: Data Science Certification 
-    year: April 2020 
+    title: Certifications 
+     - cert: Data Science Certification 
+       year: April 2020 
 
-    title: Monitoring, Evaluation and Learning Certification 
-    year: January of 2018 
+     - cert: Monitoring, Evaluation and Learning Certification 
+       year: January of 2018 
     
-    title: ITIL Certification
-    year: February 2012
+     - cert: ITIL Certification
+       year: February 2012
 
 skills:
     title: Skills &amp; Proficiency
