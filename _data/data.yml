@@ -135,6 +135,10 @@ projects:
         link: https://ssesayjr.github.io/profile_draft/#portfolio
         tagline: 
 
+      - title: Macro Nutritional Recommender
+        link: https://github.com/ssesayjr/healthRecommendation
+        tagline: 
+
 publications:
     title: Certifications 
     intro: |
@@ -144,8 +148,18 @@ publications:
         link: 
         authors:  
         conference: 
+        
+      - title: ESRI ArcGIS  (January 2018)
+        link: 
+        authors:  
+        conference: 
+        
+      - title: DevResults Administrator Certification (February 2018)
+        link: 
+        authors:  
+        conference: 
 
-      - title: Monitoring, Evaluation and Learning Certification (January 2018)
+      - title: Monitoring, Evaluation and Learning Certification (February 2018)
         link: 
         authors: 
         conference: 
