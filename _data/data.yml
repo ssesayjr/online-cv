@@ -135,25 +135,7 @@ projects:
         link: https://ssesayjr.github.io/profile_draft/#portfolio
         tagline: 
         
-publications:
-    title: Certifications 
-    intro: | Test
-     
-    papers:
-      - title: Data Science Certification (April 2020)
-        link: test
-        authors: test
-        conference: test
 
-      - title: Monitoring, Evaluation and Learning Certification (January 2018)
-        link: test
-        authors: test
-        conference: test
-
-      - title: ITIL Certification (February 2012)
-        link: test
-        authors: test
-        conference: test
 
 skills:
     title: Skills &amp; Proficiency
