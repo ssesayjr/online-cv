@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: samuel.sesay.jr@gmail.com
-    phone: +1 240 487 9184 
-    website: ssesayjr.github.io/ #do not add http://
-    linkedin: ssesayjr
+    phone: +1 240 623 4978 
+    website: ssesayjr.github.io/profile #do not add http://
+    linkedin: sbsesay
     github: ssesayjr
     gitlab:
     bitbucket:
@@ -28,10 +28,10 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Krio
+        level: Native
 
-      - idiom: Creole - West African
+      - idiom: French
         level: Professional 
 
     interests:
@@ -54,18 +54,13 @@ career-profile:
       standard operating procedures. 
       
 education:
-    - degree: BoS in Mathematics 
+    - degree: Bachlors in Mathematics & Economics 
       university: University of Maryland College Park 
       time: 2006 - 2010
       details: |
           - Bullet point
           - Bullet point
-    - degree: BoS in Economics
-      university: University of Maryland College Park
-      time: 2006 - 2010
-      details: |
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Data Analyst
       time: 2017 - Present
