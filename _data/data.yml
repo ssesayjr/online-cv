@@ -143,17 +143,17 @@ publications:
       - title: Data Science Certification
         link: test
         authors: test
-        conference: April 2020
+        year: April 2020
 
       - title: Monitoring, Evaluation and Learning Certification
         link: test
         authors: test
-        conference: January of 2018
+        year: January of 2018
 
       - title: ITIL Certification
         link: test
         authors: test
-        conference: February 2012
+        year: February 2012
 
 skills:
     title: Skills &amp; Proficiency
